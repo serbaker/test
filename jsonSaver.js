@@ -15,6 +15,8 @@ function isRegistered(users, user) {
             return true;
         }
     }
+
+    
     return false;
 }
 function registration(users, newUser) {
